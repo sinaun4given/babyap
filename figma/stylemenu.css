@@ -1,0 +1,67 @@
+.background {
+    background-color: #f2f6fc;
+    width: 360px;
+    height: 880px;
+    margin: 1rem;
+}
+
+.direct {
+    position: sticky;
+    left: 215px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.btns {
+    width: 115px;
+    height: 40px;
+    background: #EE6093;
+    box-shadow: 0px 4px 8px rgba(238, 96, 147, 0.18), 0px 2px 4px rgba(238, 96, 147, 0.18);
+    border-radius: 30px;
+    border-color: #EE6093;
+    color: aliceblue;
+    border: 2px solid transparent;
+}
+
+.btns:hover {
+    background-color: rgb(148, 49, 104);
+    border: 2px solid #ff5500;
+    color: #ff5500;
+    transition: 0.3s;
+}
+
+.btnp {}
+
+.btnp:hover {
+    background-color: rgb(148, 49, 104);
+    border: 2px solid #ff5500;
+    color: #ff5500;
+    transition: 0.3s;
+    object-fit: fill;
+}
+
+.fontriz {
+    font-size: small;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.boxw {
+    width: 328px;
+    height: 800px;
+    background-color: white;
+}
+
+.fsize {
+    font-size: 12px;
+    opacity: 0.6;
+}
+
+.justyend {
+    margin-left: 150px;
+}
